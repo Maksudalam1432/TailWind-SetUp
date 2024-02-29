@@ -2,10 +2,13 @@
 
 # Setup :
 
-## CLONE REPO BY 
+## CLONE REPO BY using git
 ```
 git clone "https://github.com/Maksudalam1432/TailWind-SetUp.git"
 ```
+or
+
+## Download it's Zip File
 ## Change Directory 
 ```
 cd "Tailwind-SetUp"
